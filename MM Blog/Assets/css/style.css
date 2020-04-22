@@ -1,0 +1,21 @@
+.carousel {
+    width:100% !important; 
+    height: 555px;
+    overflow: hidden !important; 
+    right:0 !important; 
+}
+
+.card-title {
+    font-family: Tahoma;
+    font-size: 35px;
+    font-style: inherit;
+}
+
+.card-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.card-body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
